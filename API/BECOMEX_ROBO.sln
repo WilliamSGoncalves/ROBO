@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BECOMEX_ROBO.RoboAPI", "BECOMEX_ROBO\BECOMEX_ROBO.RoboAPI.csproj", "{089A2EE7-4EC4-4A27-BBB2-DA7D14EE1115}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BECOMEX_ROBO.Tests", "BECOMEX_ROBO.Tests\BECOMEX_ROBO.Tests.csproj", "{AC1D401E-32F3-41CF-AD45-25CFEB632C9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{089A2EE7-4EC4-4A27-BBB2-DA7D14EE1115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{089A2EE7-4EC4-4A27-BBB2-DA7D14EE1115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{089A2EE7-4EC4-4A27-BBB2-DA7D14EE1115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{089A2EE7-4EC4-4A27-BBB2-DA7D14EE1115}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC1D401E-32F3-41CF-AD45-25CFEB632C9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC1D401E-32F3-41CF-AD45-25CFEB632C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC1D401E-32F3-41CF-AD45-25CFEB632C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC1D401E-32F3-41CF-AD45-25CFEB632C9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
