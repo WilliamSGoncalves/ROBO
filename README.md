@@ -7,7 +7,7 @@
    - npm install;
    - npm run dev ou npm start.
 
-Pronto, os botões já irão aparecer para controlar os robos. 
+Pronto, os botões já irão aparecer para controlar o robo. 
 
 Segue os comando solicitados na avaliação de banco de dados.
 
