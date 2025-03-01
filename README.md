@@ -1,9 +1,9 @@
 # ROBO
 
-Para a execução da API: 
-  Abra a solução da pasta API com o Visual Studio e execute o projeto, acredito que não tenha nenhuma biblioteca não usual.
-Para a execução do FrontEnd:
-  Abra a pasta do robo-frontend no Visual Studio Code e execute os seguintes comandos:
+- Para a execução da API: 
+   - Abra a solução da pasta API com o Visual Studio e execute o projeto, acredito que não tenha nenhuma biblioteca não usual.
+- Para a execução do FrontEnd:
+  - Abra a pasta do robo-frontend no Visual Studio Code e execute os seguintes comandos:
    - npm install;
    - npm run dev ou npm start.
 
