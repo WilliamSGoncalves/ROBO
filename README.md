@@ -1,13 +1,17 @@
 # ROBO
 
-Para a execução: Abra a solução da pasta API com o Visual Studio e execute, abra a pasta do robo-frontend no Visual Studio Code e execute o comando npm run dev, sem mais detalhes para a execução.
+Para a execução da API: 
+  Abra a solução da pasta API com o Visual Studio e execute o projeto, acredito que não tenha nenhuma biblioteca não usual.
+Para a execução do FrontEnd:
+  Abra a pasta do robo-frontend no Visual Studio Code e execute os seguintes comandos:
+   - npm install;
+   - npm run dev ou npm start.
 
- 
+Pronto, os botões já irão aparecer para controlar os robos. 
 
 Segue os comando solicitados na avaliação de banco de dados.
 
  
-
 1 -
 
 SELECT p.ID_PEDIDO AS Pedido,
@@ -18,7 +22,7 @@ SELECT p.ID_PEDIDO AS Pedido,
 
    SUM(po.PRECO_UNITARIO * ip.QUANTIDADE) AS Valor_total
 
-      FROM PEDIDO AS p
+   FROM PEDIDO AS p
 
 INNER JOIN ITEM_PEDIDO AS ip
 
